@@ -6,6 +6,7 @@
 !lib/
 !docs/
 !package.json
+!pnpm-lock.yaml
 !package-lock.json
 !README.md
 !CONTRIBUTING.md
@@ -22,3 +23,6 @@
 !coverage-map.js
 !map.js
 !index.js
+!main.js
+!cli.js
+!test.js
